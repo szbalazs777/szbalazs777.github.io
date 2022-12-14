@@ -1,0 +1,170 @@
+html{
+ max-width: 1600px;
+ margin: auto; 
+}
+img{
+  height: 400px;
+}
+.container{
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.title1 {
+  position: absolute;
+  bottom: 110px;
+  left: 370px;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 40px;
+}
+.title2{
+  position: absolute;
+  bottom: 20px;
+  left: 370px;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 80px;
+}
+.part1{
+  
+  margin-top: 50px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  font-size: 22px;
+}
+#text1{
+  margin-top: 10px;
+  
+  margin-bottom: 0;
+  margin-left: 370px;
+  margin-right: 440px;
+  padding-left: 0;
+}
+#text2{
+  margin-top: 10px;
+  
+  margin-bottom: 0;
+  margin-left: 370px;
+  margin-right: 360px;
+  padding-left: 0; 
+}
+#text3{
+  margin-top: 10px;
+  
+  margin-bottom: 0;
+  margin-left: 370px;
+  margin-right: 950px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  font-size: 22px;
+  padding-left: 0; 
+}
+.list1{
+margin-left: 370px;  
+font-family: 'Josefin Sans', sans-serif;
+font-size: 22px;
+margin-top: 10px;
+color: #222;
+}
+#list1{
+  list-style-type: square;  
+}
+.list1 li{
+  margin-bottom: 10px;
+}
+
+.quote{
+    
+  background: rgb(70,70,70);
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 60px; 
+  padding: 20px;
+  margin: 80px 280px 80px -70px;
+  text-align: center;
+  
+  position: relative;
+}
+.mark{
+  position: absolute;
+  bottom: 27px;
+  left: -5px;
+  font-size: 200px;
+}
+#achievements{
+  text-transform: uppercase;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-left: 360px;
+  margin-bottom: 80px;
+  color: #222;
+}
+
+.part2{
+  font-family: 'Josefin Sans', sans-serif;
+  margin-left: 360px;
+  margin-bottom: 40px;
+  color: #222;
+  
+}
+.Designed{
+  font-size: 28px;
+  line-height: 35px; 
+}
+.inmysparetime{
+  font-size: 17.9px;
+  line-height:23px;
+}
+
+
+.quote2{
+    
+  background: rgb(70,70,70);
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 60px; 
+  padding: 20px;
+  margin: 60px 280px 80px 300px;
+  text-align: left;
+  padding-left: 60px;
+  
+  position: relative;
+}
+.mark2{
+  position: absolute;
+  bottom: 110px;
+  left: -5px;
+  font-size: 200px
+}
+
+.title3{
+  font-family: 'Josefin Sans', sans-serif;
+  margin-left: 360px;
+  margin-bottom: 5px;
+  font-size: 26px;
+  color: #222;
+}
+.title4{
+  margin-top: 0;
+ font-family: 'Merriweather', serif;
+ margin-left: 360px;
+  font-size: 16.4px;
+  color: #222;
+}
+
+.list2{
+margin-left: 370px;  
+font-family: 'Josefin Sans', sans-serif;
+font-size: 17.9px;
+  margin-top: 10px;
+  line-height:25px;
+  margin-bottom: 50px;
+  color: #222;
+}
+#list2{
+  list-style-type: square;  
+}
+#emptycell{
+  border-bottom: 6px solid black;
+  margin-left: 310px;
+  margin-right:300px;
+  margin-bottom: 60px;
+}
